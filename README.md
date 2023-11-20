@@ -1,0 +1,2 @@
+# Fury
+Python game project
